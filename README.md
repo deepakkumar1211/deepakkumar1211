@@ -91,13 +91,13 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdewangan1504&show_icons=true&locale=en&layout=compact" alt="rajdewangan1504" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar1211&show_icons=true&locale=en&layout=compact" alt="deepakkumar1211" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdewangan1504&show_icons=true&locale=en" alt="rajdewangan1504" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar1211&show_icons=true&locale=en" alt="deepakkumar1211" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar1211&" alt="rajdewangan1504" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar1211&" alt="deepakkumar1211" />
 </p>
