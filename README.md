@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar1211&show_icons=true&locale=en" alt="deepakkumar1211" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar1211&show_icons=true&locale=en" alt="deepakkumar1211" />
 </p>
 
 <p>
