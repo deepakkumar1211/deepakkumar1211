@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deepak-kumar-sahu12/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rajdewa01010406?logo=twitter&style=for-the-badge" alt="deepak-kumar-sahu12" />
+    <img src="https://img.shields.io/twitter/follow/deepakkumar?logo=twitter&style=for-the-badge" alt="deepak-kumar-sahu12" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **deepakks1211@gmail.com**
 - 📄 Know about my experiences: 
-  [Resume Link](https://drive.google.com/file/d/160qsc5TvFM7hViNd_n3XA6ZB1OPxo0Uc/view?usp=drivesdk)
+  [Resume Link](https://drive.google.com/file/d/160q5TvFM7hViNd_n3XA6ZB1OPxo0Uc/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -99,5 +99,5 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdewangan1504&" alt="rajdewangan1504" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar1211&" alt="rajdewangan1504" />
 </p>
