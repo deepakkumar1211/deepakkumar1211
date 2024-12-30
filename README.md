@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](https://www.shootdartsolutions.com/img/service/web-design.gif)]
+![MasterHead](https://www.shootdartsolutions.com/img/service/web-design.gif)
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar Sahu</h1>
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
-<img align="right" alt="coding" width="500" src="https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b76116552c3d7b6c34e1cc630e594df904354af8528ba&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="450" src="https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b76116552c3d7b6c34e1cc630e594df904354af8528ba&rid=giphy.gif&ct=g">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=deepakkumar1211&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar1211" />
