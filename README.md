@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![MasterHead](https://www.shootdartsolutions.com/img/service/web-design.gif)
+-->
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar Sahu</h1>
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
